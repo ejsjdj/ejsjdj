@@ -1,7 +1,3 @@
-<!-- space for header -->
-
-<br/>
-
 <h2>👨‍🔧 Introduction </h2>
 최고의 엔지니어를 꿈꾸는 BackEnd 개발자입니다.
 
